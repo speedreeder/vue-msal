@@ -2,7 +2,7 @@
   "name": "vue-msal",
   "version": "3.2.0",
   "description": "Vue plugin for using Microsoft Authentication Library (MSAL)",
-  "main": "dist/plugin.js",
+  "main": "lib/plugin.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
